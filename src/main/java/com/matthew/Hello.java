@@ -6,5 +6,8 @@ public class Hello {
 //        new Person().hello();
         Person p = new Person();
         p.hello();
+
+        int age =15;
+        double y = 16.6;
     }
 }

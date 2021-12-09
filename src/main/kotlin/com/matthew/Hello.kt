@@ -5,6 +5,11 @@ fun main() {
 //    Human().hello()
     val h = Human()
     h.hello()
+    val name : String
+    name = "Matthew"
+    var x = 1.6f
+    var age = 19
+    age = 20
 }
 
 class Human {
